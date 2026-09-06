@@ -651,6 +651,24 @@
               ]
             }
           ]
+        },
+        {
+          "start": "5:30pm",
+          "end": "7:30pm",
+          "startISO": "2026-10-19T17:30:00-07:00",
+          "endISO": "2026-10-19T19:30:00-07:00",
+          "break": true,
+          "sessions": [
+            {
+              "title": "Poster Reception",
+              "type": "Registration",
+              "room": "San Jose Ballroom Salon 3 & 4",
+              "info": "",
+              "plenary": false,
+              "muted": true,
+              "talks": []
+            }
+          ]
         }
       ]
     },
@@ -995,13 +1013,13 @@
               "talks": [
                 {
                   "title": "How can institutional RSE hubs and OSPOs work together for the betterment of research outputs?",
-                  "speakers": "William Gearty, Jeffrey Young, Collin Capano, Ian Cosden, Daniel Katz, Richard Littauer, Fang Liu and Daniel Shown",
+                  "speakers": "William Gearty, Jeffrey Young, Collin Capano, Ian Cosden, Daniel S. Katz, Richard Littauer, Fang Liu and Daniel Shown",
                   "people": [
                     "William Gearty",
                     "Jeffrey Young",
                     "Collin Capano",
                     "Ian Cosden",
-                    "Daniel Katz",
+                    "Daniel S. Katz",
                     "Richard Littauer",
                     "Fang Liu",
                     "Daniel Shown"

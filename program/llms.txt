@@ -3,7 +3,7 @@
 > The complete program for USRSE'26 (US-RSE Conference 2026), the annual
 > conference of the US Research Software Engineer Association (US-RSE), held
 > October 19–21, 2026 in San Jose, California, USA. Theme: "Advancing Science
-> in the Age of AI". 3 days, 45 sessions, 82 talks (80 with published
+> in the Age of AI". 3 days, 46 sessions, 82 talks (80 with published
 > abstracts). All times are US Pacific (UTC-07:00).
 
 This file is generated from the conference schedule and changes only when the
@@ -270,6 +270,13 @@ Human-readable program page: https://us-rse.org/usrse26/program/
     Presenters: Addi Malviya Thakur, Reed Milewicz, Mahmoud Jahanshahi, Lavínia Paganini, Bogdan Vasilescu and Audris Mockus
     https://us-rse.org/usrse26/program/talks/#scientific-open-source-software-is-less-likely-to-become-abandoned-than-one-might-think-lessons-from-curating-a-catalog-of-maintained-scientific-software
 
+### 5:30–7:30pm — Poster Reception
+
+- Time: 2026-10-19T17:30:00-07:00 to 2026-10-19T19:30:00-07:00 (120 min)
+- Room: San Jose Ballroom Salon 3 & 4
+- Type: Registration
+- Concurrent with: nothing (the only session at this time)
+
 ## Tuesday, October 20, 2026
 
 ### 7:30–8:30am — Registration
@@ -400,7 +407,7 @@ Human-readable program page: https://us-rse.org/usrse26/program/
 - Concurrent with: RSE Skill Training (1:30–3pm, San Jose Ballroom Salon 3 & 4); User Experience: Journey Mapping (1:30–3pm, San Jose Ballroom Salon 1 & 2); Refactoring Code for Reuse and Impact (1:30–3pm, Willow Glen Room)
 - Talks (1):
   - "How can institutional RSE hubs and OSPOs work together for the betterment of research outputs?" (Bird of a Feather)
-    Presenters: William Gearty, Jeffrey Young, Collin Capano, Ian Cosden, Daniel Katz, Richard Littauer, Fang Liu and Daniel Shown
+    Presenters: William Gearty, Jeffrey Young, Collin Capano, Ian Cosden, Daniel S. Katz, Richard Littauer, Fang Liu and Daniel Shown
     https://us-rse.org/usrse26/program/bofs/#how-can-institutional-rse-hubs-and-ospos-work-together-for-the-betterment-of-research-outputs
 
 ### 1:30–3pm — Refactoring Code for Reuse and Impact
