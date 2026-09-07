@@ -258,7 +258,7 @@ Human-readable program page: https://us-rse.org/usrse26/program/
 - Concurrent with: Notebooks (3:30–5pm, San Jose Ballroom Salon 1 & 2); Lessons from Training Users & RSEs (3:30–5pm, San Jose Ballroom Salon 5 & 6)
 - Talks (4):
   - "Software Gardening Almanack: Measuring and Growing Sustainable Research Software Ecosystems" (Talk)
-    Presenters: Aditi Gopalan, Adam Taylor, Dave Bunten, Gregory Way and Jineta Banerjee
+    Presenters: Aditi Gopalan, Dave Bunten, Adam Taylor, Susheel Varma, Gregory P. Way, and Jineta Banerjee
     https://us-rse.org/usrse26/program/talks/#software-gardening-almanack-measuring-and-growing-sustainable-research-software-ecosystems
   - "Measuring What Matters in the Age of AI: The Research Software Metrics Landscape" (Paper)
     Presenters: Addi Malviya Thakur, Reed Milewicz, Gregory Watson and Audris Mockus

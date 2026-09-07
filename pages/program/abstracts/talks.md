@@ -279,7 +279,7 @@ In our talk, NERSC staff will share several resources that can be used by the HP
     <summary class="abstract__summary">
       <h2 class="abstract__heading" id="software-gardening-almanack-measuring-and-growing-sustainable-research-software-ecosystems">
         <span class="abstract__title">Software Gardening Almanack: Measuring and Growing Sustainable Research Software Ecosystems</span>
-        <span class="abstract__people">Aditi Gopalan, Adam Taylor, Dave Bunten, Gregory Way and Jineta Banerjee</span>
+        <span class="abstract__people">Aditi Gopalan, Dave Bunten, Adam Taylor, Susheel Varma, Gregory P. Way, and Jineta Banerjee</span>
       </h2>
     </summary>
     <div class="abstract__body">{% capture abstract_md %}Modern computational biology depends on research software, yet many scientific tools remain difficult to reproduce, maintain, and reuse. In our previous Software Gardening Almanack (SGA) presentation, we introduced “Software Gardening” as a framework for improving research software sustainability through measurable engineering and governance practices. In this follow-up talk, we present major updates and new findings from ecosystem-scale analyses of more than 10,000 computational biology repositories spanning genomics, RNA-seq, structural biology, imaging, and single-cell analysis.

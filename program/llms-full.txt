@@ -548,7 +548,7 @@ Abstract:
 #### Software Gardening Almanack: Measuring and Growing Sustainable Research Software Ecosystems
 
 - Format: Talk
-- Presenters: Aditi Gopalan, Adam Taylor, Dave Bunten, Gregory Way and Jineta Banerjee
+- Presenters: Aditi Gopalan, Dave Bunten, Adam Taylor, Susheel Varma, Gregory P. Way, and Jineta Banerjee
 - Abstract page: https://us-rse.org/usrse26/program/talks/#software-gardening-almanack-measuring-and-growing-sustainable-research-software-ecosystems
 
 Abstract:

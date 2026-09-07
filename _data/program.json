@@ -595,12 +595,13 @@
               "talks": [
                 {
                   "title": "Software Gardening Almanack: Measuring and Growing Sustainable Research Software Ecosystems",
-                  "speakers": "Aditi Gopalan, Adam Taylor, Dave Bunten, Gregory Way and Jineta Banerjee",
+                  "speakers": "Aditi Gopalan, Dave Bunten, Adam Taylor, Susheel Varma, Gregory P. Way, and Jineta Banerjee",
                   "people": [
                     "Aditi Gopalan",
-                    "Adam Taylor",
                     "Dave Bunten",
-                    "Gregory Way",
+                    "Adam Taylor",
+                    "Susheel Varma",
+                    "Gregory P. Way",
                     "Jineta Banerjee"
                   ],
                   "format": "Talk",
